@@ -1,0 +1,3193 @@
+{
+  "nodes": [
+    {
+      "id": "creation"
+    },
+    {
+      "id": "money"
+    },
+    {
+      "id": "creativity"
+    },
+    {
+      "id": "artist"
+    },
+    {
+      "id": "William Faulkner"
+    },
+    {
+      "id": "books"
+    },
+    {
+      "id": "performers"
+    },
+    {
+      "id": "actors"
+    },
+    {
+      "id": "burlesque dancers"
+    },
+    {
+      "id": "belly dancers"
+    },
+    {
+      "id": "musicians"
+    },
+    {
+      "id": "roller derby athletes"
+    },
+    {
+      "id": "stage names"
+    },
+    {
+      "id": "exotic dancers"
+    },
+    {
+      "id": "Burlesque"
+    },
+    {
+      "id": "art forms"
+    },
+    {
+      "id": "U.S."
+    },
+    {
+      "id": "New York City"
+    },
+    {
+      "id": "business"
+    },
+    {
+      "id": "burlesque performers"
+    },
+    {
+      "id": "Chicago"
+    },
+    {
+      "id": "music demo"
+    },
+    {
+      "id": "record deal"
+    },
+    {
+      "id": "record label"
+    },
+    {
+      "id": "Phantom City Studio"
+    },
+    {
+      "id": "people"
+    },
+    {
+      "id": "box office"
+    },
+    {
+      "id": "Ticketmaster"
+    },
+    {
+      "id": "website"
+    },
+    {
+      "id": "tickets"
+    },
+    {
+      "id": "shows"
+    },
+    {
+      "id": "Sir John Everett Millais"
+    },
+    {
+      "id": "child prodigy"
+    },
+    {
+      "id": "Pre-Raphaelite movement"
+    },
+    {
+      "id": "silver medal"
+    },
+    {
+      "id": "Society of Arts"
+    },
+    {
+      "id": "entertainment expenses"
+    },
+    {
+      "id": "entertainment"
+    },
+    {
+      "id": "Bureau of Labor Statistics"
+    },
+    {
+      "id": "American household"
+    },
+    {
+      "id": "casino"
+    },
+    {
+      "id": "casino gambling"
+    },
+    {
+      "id": "spending"
+    },
+    {
+      "id": "free time"
+    },
+    {
+      "id": "hobbies"
+    },
+    {
+      "id": "workshop"
+    },
+    {
+      "id": "skills"
+    },
+    {
+      "id": "scientists"
+    },
+    {
+      "id": "accomplishment"
+    },
+    {
+      "id": "participants"
+    },
+    {
+      "id": "professionals"
+    },
+    {
+      "id": "educators"
+    },
+    {
+      "id": "information"
+    },
+    {
+      "id": "business leaders"
+    },
+    {
+      "id": "circuit"
+    },
+    {
+      "id": "computer aided simulations"
+    },
+    {
+      "id": "printed circuit board"
+    },
+    {
+      "id": "teens"
+    },
+    {
+      "id": "parental guidance"
+    },
+    {
+      "id": "care"
+    },
+    {
+      "id": "someone"
+    },
+    {
+      "id": "parent"
+    },
+    {
+      "id": "task"
+    },
+    {
+      "id": "hours at the gym"
+    },
+    {
+      "id": "months of dieting"
+    },
+    {
+      "id": "being healthy"
+    },
+    {
+      "id": "pulse"
+    },
+    {
+      "id": "heart rate"
+    },
+    {
+      "id": "brain condition"
+    },
+    {
+      "id": "equipment"
+    },
+    {
+      "id": "weight"
+    },
+    {
+      "id": "religious questions"
+    },
+    {
+      "id": "ideas in creation"
+    },
+    {
+      "id": "theory of evolution"
+    },
+    {
+      "id": "awareness"
+    },
+    {
+      "id": "life"
+    },
+    {
+      "id": "thoughts"
+    },
+    {
+      "id": "world"
+    },
+    {
+      "id": "crystals"
+    },
+    {
+      "id": "spiritualist"
+    },
+    {
+      "id": "Tao Te Ching"
+    },
+    {
+      "id": "Lao-Tzu"
+    },
+    {
+      "id": "Taoism"
+    },
+    {
+      "id": "Chinese religion"
+    },
+    {
+      "id": "Philosophy"
+    },
+    {
+      "id": "good"
+    },
+    {
+      "id": "evil"
+    },
+    {
+      "id": "organization"
+    },
+    {
+      "id": "planning tips"
+    },
+    {
+      "id": "suggestions"
+    },
+    {
+      "id": "spiritual retreat"
+    },
+    {
+      "id": "dangers"
+    },
+    {
+      "id": "faith healers"
+    },
+    {
+      "id": "opinions"
+    },
+    {
+      "id": "God"
+    },
+    {
+      "id": "religions"
+    },
+    {
+      "id": "friends"
+    },
+    {
+      "id": "brotherhood"
+    },
+    {
+      "id": "worship song"
+    },
+    {
+      "id": "worship"
+    },
+    {
+      "id": "behaviors"
+    },
+    {
+      "id": "transformation"
+    },
+    {
+      "id": "life rut"
+    },
+    {
+      "id": "resolve"
+    },
+    {
+      "id": "willpower"
+    },
+    {
+      "id": "planning"
+    },
+    {
+      "id": "bad situations"
+    },
+    {
+      "id": "injury"
+    },
+    {
+      "id": "illness"
+    },
+    {
+      "id": "divorce"
+    },
+    {
+      "id": "addiction"
+    },
+    {
+      "id": "betrayal"
+    },
+    {
+      "id": "emotional wound"
+    },
+    {
+      "id": "ideals"
+    },
+    {
+      "id": "rules"
+    },
+    {
+      "id": "idealist"
+    },
+    {
+      "id": "beliefs"
+    },
+    {
+      "id": "character"
+    },
+    {
+      "id": "absolutes"
+    },
+    {
+      "id": "laws"
+    },
+    {
+      "id": "religion"
+    },
+    {
+      "id": "common beliefs"
+    },
+    {
+      "id": "religious opinion"
+    },
+    {
+      "id": "personal morality"
+    },
+    {
+      "id": "Truth"
+    },
+    {
+      "id": "ethics"
+    },
+    {
+      "id": "philosophy"
+    },
+    {
+      "id": "faiths"
+    },
+    {
+      "id": "sins"
+    },
+    {
+      "id": "baptism"
+    },
+    {
+      "id": "Jesus"
+    },
+    {
+      "id": "Savior"
+    },
+    {
+      "id": "buzzword"
+    },
+    {
+      "id": "state authority"
+    },
+    {
+      "id": "Fascism"
+    },
+    {
+      "id": "violent tyranny"
+    },
+    {
+      "id": "left wing"
+    },
+    {
+      "id": "right wings"
+    },
+    {
+      "id": "war"
+    },
+    {
+      "id": "socialized medicine"
+    },
+    {
+      "id": "ideology"
+    },
+    {
+      "id": "Latin word fascis"
+    },
+    {
+      "id": "Human beings"
+    },
+    {
+      "id": "sin"
+    },
+    {
+      "id": "Everyone"
+    },
+    {
+      "id": "urge"
+    },
+    {
+      "id": "benefits"
+    },
+    {
+      "id": "cost"
+    },
+    {
+      "id": "sinning"
+    },
+    {
+      "id": "Japanese emperors"
+    },
+    {
+      "id": "deities"
+    },
+    {
+      "id": "state religion"
+    },
+    {
+      "id": "ancient Roman Emperors"
+    },
+    {
+      "id": "Japanese Emperor"
+    },
+    {
+      "id": "Egyptian pharaohs"
+    },
+    {
+      "id": "humans"
+    },
+    {
+      "id": "gods"
+    },
+    {
+      "id": "yourself"
+    },
+    {
+      "id": "God's grace"
+    },
+    {
+      "id": "faith"
+    },
+    {
+      "id": "person"
+    },
+    {
+      "id": "Lutheranism"
+    },
+    {
+      "id": "denomination"
+    },
+    {
+      "id": "Lutherans"
+    },
+    {
+      "id": "Christian Church"
+    },
+    {
+      "id": "physical characteristics"
+    },
+    {
+      "id": "small single-creased hands"
+    },
+    {
+      "id": "Down syndrome"
+    },
+    {
+      "id": "intellect"
+    },
+    {
+      "id": "heart defects"
+    },
+    {
+      "id": "facial features"
+    },
+    {
+      "id": "slanted eyes"
+    },
+    {
+      "id": "low-set ears"
+    },
+    {
+      "id": "chromosomal abnormality"
+    },
+    {
+      "id": "genetic disability"
+    },
+    {
+      "id": "hearing problems"
+    },
+    {
+      "id": "thick tongue"
+    },
+    {
+      "id": "babies"
+    },
+    {
+      "id": "mental characteristics"
+    },
+    {
+      "id": "learning disabilities"
+    },
+    {
+      "id": "Cyclic Vomiting Syndrome (CVS)"
+    },
+    {
+      "id": "diagnosis"
+    },
+    {
+      "id": "treatment"
+    },
+    {
+      "id": "symptoms"
+    },
+    {
+      "id": "development"
+    },
+    {
+      "id": "physical traits"
+    },
+    {
+      "id": "21st chromosome"
+    },
+    {
+      "id": "genetic material"
+    },
+    {
+      "id": "mental traits"
+    },
+    {
+      "id": "Down Syndrome"
+    },
+    {
+      "id": "pathogens"
+    },
+    {
+      "id": "morbidity"
+    },
+    {
+      "id": "mortality rates"
+    },
+    {
+      "id": "agents"
+    },
+    {
+      "id": "mass dissemination"
+    },
+    {
+      "id": "health impact"
+    },
+    {
+      "id": "category C bioterrorism agents"
+    },
+    {
+      "id": "CDC"
+    },
+    {
+      "id": "South America"
+    },
+    {
+      "id": "amebiasis"
+    },
+    {
+      "id": "Africa"
+    },
+    {
+      "id": "Travel"
+    },
+    {
+      "id": "sanitation"
+    },
+    {
+      "id": "tropical area"
+    },
+    {
+      "id": "India"
+    },
+    {
+      "id": "Central America"
+    },
+    {
+      "id": "health"
+    },
+    {
+      "id": "sickness"
+    },
+    {
+      "id": "parasitic infection"
+    },
+    {
+      "id": "gastrointestinal tract"
+    },
+    {
+      "id": "Anisakidae"
+    },
+    {
+      "id": "Phocanema"
+    },
+    {
+      "id": "Terranova"
+    },
+    {
+      "id": "Anisakiasis"
+    },
+    {
+      "id": "larval nematodes"
+    },
+    {
+      "id": "Anisakis"
+    },
+    {
+      "id": "Contracaecum"
+    },
+    {
+      "id": "loofah"
+    },
+    {
+      "id": "plastic"
+    },
+    {
+      "id": "natural loofahs"
+    },
+    {
+      "id": "loofah fruit"
+    },
+    {
+      "id": "personal hygiene"
+    },
+    {
+      "id": "dead skin"
+    },
+    {
+      "id": "sponge"
+    },
+    {
+      "id": "synthetic material"
+    },
+    {
+      "id": "earbuds"
+    },
+    {
+      "id": "podcasts"
+    },
+    {
+      "id": "YouTube videos"
+    },
+    {
+      "id": "music"
+    },
+    {
+      "id": "toilet"
+    },
+    {
+      "id": "home's water"
+    },
+    {
+      "id": "environment"
+    },
+    {
+      "id": "buildup"
+    },
+    {
+      "id": "skin"
+    },
+    {
+      "id": "band"
+    },
+    {
+      "id": "use"
+    },
+    {
+      "id": "Fitbit bands"
+    },
+    {
+      "id": "sweat"
+    },
+    {
+      "id": "oil"
+    },
+    {
+      "id": "debris"
+    },
+    {
+      "id": "Methicillin Resistant Staphylococcus Aureus (MRSA)"
+    },
+    {
+      "id": "staph bacteria"
+    },
+    {
+      "id": "methicillin"
+    },
+    {
+      "id": "antibiotics"
+    },
+    {
+      "id": "nose"
+    },
+    {
+      "id": "Exercise"
+    },
+    {
+      "id": "immune system"
+    },
+    {
+      "id": "body"
+    },
+    {
+      "id": "mind"
+    },
+    {
+      "id": "Gyms"
+    },
+    {
+      "id": "germs"
+    },
+    {
+      "id": "bacteria"
+    },
+    {
+      "id": "diseases"
+    },
+    {
+      "id": "mono"
+    },
+    {
+      "id": "drinks"
+    },
+    {
+      "id": "common cold"
+    },
+    {
+      "id": "shared surfaces"
+    },
+    {
+      "id": "hand washing"
+    },
+    {
+      "id": "preventative strategies"
+    },
+    {
+      "id": "flu"
+    },
+    {
+      "id": "person with the flu"
+    },
+    {
+      "id": "infected person"
+    },
+    {
+      "id": "spit"
+    },
+    {
+      "id": "Public restrooms"
+    },
+    {
+      "id": "toilet seat"
+    },
+    {
+      "id": "public toilets"
+    },
+    {
+      "id": "morning routine"
+    },
+    {
+      "id": "changes"
+    },
+    {
+      "id": "indoor plumbing"
+    },
+    {
+      "id": "defecate"
+    },
+    {
+      "id": "urinate"
+    },
+    {
+      "id": "evidence"
+    },
+    {
+      "id": "spot"
+    },
+    {
+      "id": "mess"
+    },
+    {
+      "id": "water"
+    },
+    {
+      "id": "microorganisms"
+    },
+    {
+      "id": "you"
+    },
+    {
+      "id": "nutrition"
+    },
+    {
+      "id": "baby"
+    },
+    {
+      "id": "pregnancy"
+    },
+    {
+      "id": "height"
+    },
+    {
+      "id": "genetics"
+    },
+    {
+      "id": "environmental factors"
+    },
+    {
+      "id": "Pregnancy"
+    },
+    {
+      "id": "woman"
+    },
+    {
+      "id": "celebrities"
+    },
+    {
+      "id": "stomachs"
+    },
+    {
+      "id": "public"
+    },
+    {
+      "id": "supplies"
+    },
+    {
+      "id": "strategy"
+    },
+    {
+      "id": "facial"
+    },
+    {
+      "id": "festive season"
+    },
+    {
+      "id": "year"
+    },
+    {
+      "id": "new year"
+    },
+    {
+      "id": "steps"
+    },
+    {
+      "id": "mental health"
+    },
+    {
+      "id": "physical health"
+    },
+    {
+      "id": "emotional health"
+    },
+    {
+      "id": "diary"
+    },
+    {
+      "id": "wellness"
+    },
+    {
+      "id": "health journal"
+    },
+    {
+      "id": "progression of the disease"
+    },
+    {
+      "id": "medications"
+    },
+    {
+      "id": "chronic conditions"
+    },
+    {
+      "id": "Curcumin"
+    },
+    {
+      "id": "inflammation"
+    },
+    {
+      "id": "cancers"
+    },
+    {
+      "id": "Turmeric"
+    },
+    {
+      "id": "infection"
+    },
+    {
+      "id": "digestive issues"
+    },
+    {
+      "id": "recovering from procedures"
+    },
+    {
+      "id": "surgery"
+    },
+    {
+      "id": "procedures"
+    },
+    {
+      "id": "infections"
+    },
+    {
+      "id": "being ill"
+    },
+    {
+      "id": "hospitalization"
+    },
+    {
+      "id": "winter weather"
+    },
+    {
+      "id": "immunity"
+    },
+    {
+      "id": "Spring semester"
+    },
+    {
+      "id": "fall semester"
+    },
+    {
+      "id": "actions"
+    },
+    {
+      "id": "habits"
+    },
+    {
+      "id": "exercising"
+    },
+    {
+      "id": "sleeping"
+    },
+    {
+      "id": "eating"
+    },
+    {
+      "id": "Lead"
+    },
+    {
+      "id": "Pb"
+    },
+    {
+      "id": "periodic table"
+    },
+    {
+      "id": "plumbum"
+    },
+    {
+      "id": "Latin"
+    },
+    {
+      "id": "Spondylosis"
+    },
+    {
+      "id": "spinal discs"
+    },
+    {
+      "id": "older people"
+    },
+    {
+      "id": "neck"
+    },
+    {
+      "id": "cervical spondylosis"
+    },
+    {
+      "id": "cervical osteoarthritis"
+    },
+    {
+      "id": "Eye correction surgery"
+    },
+    {
+      "id": "astigmatism"
+    },
+    {
+      "id": "Lasik"
+    },
+    {
+      "id": "Laser-assisted in situ keratomileusis"
+    },
+    {
+      "id": "farsightedness"
+    },
+    {
+      "id": "nearsightedness"
+    },
+    {
+      "id": "kidneys"
+    },
+    {
+      "id": "urine"
+    },
+    {
+      "id": "filters"
+    },
+    {
+      "id": "electrolyte balance"
+    },
+    {
+      "id": "fluid"
+    },
+    {
+      "id": "energy levels"
+    },
+    {
+      "id": "red blood cell production"
+    },
+    {
+      "id": "blood pressure regulation"
+    },
+    {
+      "id": "organs"
+    },
+    {
+      "id": "hyperthyroidism"
+    },
+    {
+      "id": "difficulty sleeping"
+    },
+    {
+      "id": "metabolism"
+    },
+    {
+      "id": "thyroid-stimulating hormones (TSH)"
+    },
+    {
+      "id": "moodiness"
+    },
+    {
+      "id": "thyroid"
+    },
+    {
+      "id": "weight loss"
+    },
+    {
+      "id": "tobacco products"
+    },
+    {
+      "id": "ingredients"
+    },
+    {
+      "id": "cigars"
+    },
+    {
+      "id": "flavor"
+    },
+    {
+      "id": "pipe tobacco"
+    },
+    {
+      "id": "herbal remedies"
+    },
+    {
+      "id": "pipe"
+    },
+    {
+      "id": "refrigerator"
+    },
+    {
+      "id": "house"
+    },
+    {
+      "id": "bong"
+    },
+    {
+      "id": "water bottle"
+    },
+    {
+      "id": "WikiHow"
+    },
+    {
+      "id": "apple"
+    },
+    {
+      "id": "smoke"
+    },
+    {
+      "id": "cigarettes"
+    },
+    {
+      "id": "lung cancer"
+    },
+    {
+      "id": "Pipes"
+    },
+    {
+      "id": "oral cancer"
+    },
+    {
+      "id": "one-hitter"
+    },
+    {
+      "id": "herbal ingredient"
+    },
+    {
+      "id": "carbon monoxide"
+    },
+    {
+      "id": "particle sizes"
+    },
+    {
+      "id": "combustion toxins"
+    },
+    {
+      "id": "herb"
+    },
+    {
+      "id": "plant"
+    },
+    {
+      "id": "Bob Marley"
+    },
+    {
+      "id": "egg donation"
+    },
+    {
+      "id": "family"
+    },
+    {
+      "id": "income"
+    },
+    {
+      "id": "debt"
+    },
+    {
+      "id": "payment"
+    },
+    {
+      "id": "eggs"
+    },
+    {
+      "id": "financial goals"
+    },
+    {
+      "id": "postpartum depression"
+    },
+    {
+      "id": "listlessness"
+    },
+    {
+      "id": "anxiety"
+    },
+    {
+      "id": "sadness"
+    },
+    {
+      "id": "women"
+    },
+    {
+      "id": "baby blues"
+    },
+    {
+      "id": "guilt"
+    },
+    {
+      "id": "age"
+    },
+    {
+      "id": "careers"
+    },
+    {
+      "id": "educations"
+    },
+    {
+      "id": "children"
+    },
+    {
+      "id": "college student"
+    },
+    {
+      "id": "college"
+    },
+    {
+      "id": "child"
+    },
+    {
+      "id": "utero"
+    },
+    {
+      "id": "time"
+    },
+    {
+      "id": "child's paternity"
+    },
+    {
+      "id": "father"
+    },
+    {
+      "id": "pregnant women"
+    },
+    {
+      "id": "hips"
+    },
+    {
+      "id": "Stretch marks"
+    },
+    {
+      "id": "mom"
+    },
+    {
+      "id": "body size"
+    },
+    {
+      "id": "puberty"
+    },
+    {
+      "id": "abdomen"
+    },
+    {
+      "id": "rapid weight-gain"
+    },
+    {
+      "id": "thighs"
+    },
+    {
+      "id": "Pregnancy hormones"
+    },
+    {
+      "id": "digestive cycle"
+    },
+    {
+      "id": "side effects"
+    },
+    {
+      "id": "progesterone"
+    },
+    {
+      "id": "Gas"
+    },
+    {
+      "id": "first trimester"
+    }
+  ],
+  "links": [
+    {
+      "source": "creation",
+      "target": "money",
+      "label": "can generate"
+    },
+    {
+      "source": "creativity",
+      "target": "creation",
+      "label": "results in"
+    },
+    {
+      "source": "artist",
+      "target": "creativity",
+      "label": "has"
+    },
+    {
+      "source": "artist",
+      "target": "money",
+      "label": "wants"
+    },
+    {
+      "source": "William Faulkner",
+      "target": "books",
+      "label": "mentioned in relation to"
+    },
+    {
+      "source": "performers",
+      "target": "actors",
+      "label": "include"
+    },
+    {
+      "source": "performers",
+      "target": "burlesque dancers",
+      "label": "include"
+    },
+    {
+      "source": "performers",
+      "target": "belly dancers",
+      "label": "include"
+    },
+    {
+      "source": "performers",
+      "target": "musicians",
+      "label": "include"
+    },
+    {
+      "source": "performers",
+      "target": "roller derby athletes",
+      "label": "include"
+    },
+    {
+      "source": "performers",
+      "target": "exotic dancers",
+      "label": "include"
+    },
+    {
+      "source": "stage names",
+      "target": "performers",
+      "label": "are used by"
+    },
+    {
+      "source": "Burlesque",
+      "target": "art forms",
+      "label": "is one of"
+    },
+    {
+      "source": "Burlesque",
+      "target": "U.S.",
+      "label": "in"
+    },
+    {
+      "source": "New York City",
+      "target": "business",
+      "label": "in"
+    },
+    {
+      "source": "burlesque performers",
+      "target": "business",
+      "label": "find"
+    },
+    {
+      "source": "Chicago",
+      "target": "business",
+      "label": "in"
+    },
+    {
+      "source": "music demo",
+      "target": "record deal",
+      "label": "is required to get"
+    },
+    {
+      "source": "record deal",
+      "target": "record label",
+      "label": "get signed by"
+    },
+    {
+      "source": "record deal",
+      "target": "Phantom City Studio",
+      "label": "get from"
+    },
+    {
+      "source": "people",
+      "target": "box office",
+      "label": "without going to"
+    },
+    {
+      "source": "people",
+      "target": "tickets",
+      "label": "purchase"
+    },
+    {
+      "source": "people",
+      "target": "task",
+      "label": "think"
+    },
+    {
+      "source": "people",
+      "target": "being healthy",
+      "label": "think"
+    },
+    {
+      "source": "people",
+      "target": "good",
+      "label": "can be"
+    },
+    {
+      "source": "people",
+      "target": "evil",
+      "label": "can be"
+    },
+    {
+      "source": "people",
+      "target": "Gyms",
+      "label": "using"
+    },
+    {
+      "source": "people",
+      "target": "health journal",
+      "label": "keep"
+    },
+    {
+      "source": "people",
+      "target": "symptoms",
+      "label": "note"
+    },
+    {
+      "source": "people",
+      "target": "progression of the disease",
+      "label": "monitor"
+    },
+    {
+      "source": "people",
+      "target": "medications",
+      "label": "keep track of"
+    },
+    {
+      "source": "people",
+      "target": "chronic conditions",
+      "label": "have"
+    },
+    {
+      "source": "Ticketmaster",
+      "target": "website",
+      "label": "is a"
+    },
+    {
+      "source": "tickets",
+      "target": "shows",
+      "label": "to"
+    },
+    {
+      "source": "Sir John Everett Millais",
+      "target": "artist",
+      "label": "is a"
+    },
+    {
+      "source": "Sir John Everett Millais",
+      "target": "child prodigy",
+      "label": "was a"
+    },
+    {
+      "source": "Sir John Everett Millais",
+      "target": "Pre-Raphaelite movement",
+      "label": "was one of the founders of"
+    },
+    {
+      "source": "Sir John Everett Millais",
+      "target": "silver medal",
+      "label": "won"
+    },
+    {
+      "source": "Sir John Everett Millais",
+      "target": "Society of Arts",
+      "label": "won at"
+    },
+    {
+      "source": "entertainment expenses",
+      "target": "entertainment",
+      "label": "is a type of"
+    },
+    {
+      "source": "Bureau of Labor Statistics",
+      "target": "American household",
+      "label": "reports"
+    },
+    {
+      "source": "American household",
+      "target": "entertainment",
+      "label": "spent on"
+    },
+    {
+      "source": "casino",
+      "target": "casino gambling",
+      "label": "is related to"
+    },
+    {
+      "source": "spending",
+      "target": "free time",
+      "label": "related_to"
+    },
+    {
+      "source": "hobbies",
+      "target": "money",
+      "label": "related_to"
+    },
+    {
+      "source": "workshop",
+      "target": "skills",
+      "label": "provides"
+    },
+    {
+      "source": "workshop",
+      "target": "scientists",
+      "label": "is important for"
+    },
+    {
+      "source": "workshop",
+      "target": "accomplishment",
+      "label": "provides"
+    },
+    {
+      "source": "workshop",
+      "target": "participants",
+      "label": "provides"
+    },
+    {
+      "source": "workshop",
+      "target": "professionals",
+      "label": "is important for"
+    },
+    {
+      "source": "workshop",
+      "target": "educators",
+      "label": "is important for"
+    },
+    {
+      "source": "workshop",
+      "target": "information",
+      "label": "provides"
+    },
+    {
+      "source": "workshop",
+      "target": "business leaders",
+      "label": "is important for"
+    },
+    {
+      "source": "circuit",
+      "target": "circuit",
+      "label": "designed"
+    },
+    {
+      "source": "circuit",
+      "target": "computer aided simulations",
+      "label": "tested with"
+    },
+    {
+      "source": "circuit",
+      "target": "printed circuit board",
+      "label": "needs"
+    },
+    {
+      "source": "teens",
+      "target": "parental guidance",
+      "label": "must take"
+    },
+    {
+      "source": "care",
+      "target": "someone",
+      "label": "care"
+    },
+    {
+      "source": "parent",
+      "target": "care",
+      "label": "care"
+    },
+    {
+      "source": "task",
+      "target": "hours at the gym",
+      "label": "accompanied by"
+    },
+    {
+      "source": "task",
+      "target": "months of dieting",
+      "label": "involving"
+    },
+    {
+      "source": "pulse",
+      "target": "heart rate",
+      "label": "allows to determine"
+    },
+    {
+      "source": "pulse",
+      "target": "equipment",
+      "label": "is determined without"
+    },
+    {
+      "source": "heart rate",
+      "target": "pulse",
+      "label": "is a"
+    },
+    {
+      "source": "brain condition",
+      "target": "pulse",
+      "label": "is related to"
+    },
+    {
+      "source": "weight",
+      "target": "pulse",
+      "label": "is related to"
+    },
+    {
+      "source": "religious questions",
+      "target": "religious questions",
+      "label": "are"
+    },
+    {
+      "source": "ideas in creation",
+      "target": "ideas in creation",
+      "label": "are"
+    },
+    {
+      "source": "theory of evolution",
+      "target": "theory of evolution",
+      "label": "is not"
+    },
+    {
+      "source": "awareness",
+      "target": "life",
+      "label": "is making"
+    },
+    {
+      "source": "life",
+      "target": "health",
+      "label": "is"
+    },
+    {
+      "source": "life",
+      "target": "actions",
+      "label": "involves"
+    },
+    {
+      "source": "life",
+      "target": "habits",
+      "label": "involves"
+    },
+    {
+      "source": "life",
+      "target": "exercising",
+      "label": "requires"
+    },
+    {
+      "source": "life",
+      "target": "sleeping",
+      "label": "requires"
+    },
+    {
+      "source": "life",
+      "target": "eating",
+      "label": "requires"
+    },
+    {
+      "source": "thoughts",
+      "target": "world",
+      "label": "create"
+    },
+    {
+      "source": "crystals",
+      "target": "spiritualist",
+      "label": "draws the attention of"
+    },
+    {
+      "source": "Tao Te Ching",
+      "target": "Lao-Tzu",
+      "label": "by"
+    },
+    {
+      "source": "Taoism",
+      "target": "Tao Te Ching",
+      "label": "based on the teachings in"
+    },
+    {
+      "source": "Taoism",
+      "target": "Chinese religion",
+      "label": "is a"
+    },
+    {
+      "source": "Taoism",
+      "target": "Philosophy",
+      "label": "is a"
+    },
+    {
+      "source": "organization",
+      "target": "planning tips",
+      "label": "needs"
+    },
+    {
+      "source": "organization",
+      "target": "suggestions",
+      "label": "needs"
+    },
+    {
+      "source": "organization",
+      "target": "spiritual retreat",
+      "label": "is in charge of planning"
+    },
+    {
+      "source": "planning tips",
+      "target": "suggestions",
+      "label": "are"
+    },
+    {
+      "source": "dangers",
+      "target": "faith healers",
+      "label": "avoid"
+    },
+    {
+      "source": "opinions",
+      "target": "God",
+      "label": "relate to"
+    },
+    {
+      "source": "God",
+      "target": "sins",
+      "label": "forgiveness for"
+    },
+    {
+      "source": "religions",
+      "target": "God",
+      "label": "relate to"
+    },
+    {
+      "source": "friends",
+      "target": "brotherhood",
+      "label": "thinking about starting"
+    },
+    {
+      "source": "worship song",
+      "target": "worship",
+      "label": "allows"
+    },
+    {
+      "source": "behaviors",
+      "target": "transformation",
+      "label": "is step in"
+    },
+    {
+      "source": "life rut",
+      "target": "resolve",
+      "label": "requires"
+    },
+    {
+      "source": "life rut",
+      "target": "willpower",
+      "label": "requires"
+    },
+    {
+      "source": "life rut",
+      "target": "planning",
+      "label": "requires"
+    },
+    {
+      "source": "bad situations",
+      "target": "transformation",
+      "label": "is step in"
+    },
+    {
+      "source": "bad situations",
+      "target": "behaviors",
+      "label": "keep"
+    },
+    {
+      "source": "injury",
+      "target": "injury",
+      "label": "healing from"
+    },
+    {
+      "source": "illness",
+      "target": "illness",
+      "label": "fight"
+    },
+    {
+      "source": "divorce",
+      "target": "divorce",
+      "label": "going through"
+    },
+    {
+      "source": "addiction",
+      "target": "addiction",
+      "label": "overcoming"
+    },
+    {
+      "source": "betrayal",
+      "target": "betrayal",
+      "label": "rebuilding after"
+    },
+    {
+      "source": "emotional wound",
+      "target": "emotional wound",
+      "label": "rebuilding after"
+    },
+    {
+      "source": "ideals",
+      "target": "rules",
+      "label": "are"
+    },
+    {
+      "source": "idealist",
+      "target": "beliefs",
+      "label": "has"
+    },
+    {
+      "source": "idealist",
+      "target": "character",
+      "label": "has"
+    },
+    {
+      "source": "idealist",
+      "target": "absolutes",
+      "label": "lives by"
+    },
+    {
+      "source": "idealist",
+      "target": "laws",
+      "label": "lives by"
+    },
+    {
+      "source": "religion",
+      "target": "common beliefs",
+      "label": "search as"
+    },
+    {
+      "source": "religion",
+      "target": "religious opinion",
+      "label": "search as"
+    },
+    {
+      "source": "religion",
+      "target": "personal morality",
+      "label": "search as"
+    },
+    {
+      "source": "religion",
+      "target": "Truth",
+      "label": "search as"
+    },
+    {
+      "source": "religion",
+      "target": "ethics",
+      "label": "search as"
+    },
+    {
+      "source": "religion",
+      "target": "philosophy",
+      "label": "search as"
+    },
+    {
+      "source": "religion",
+      "target": "faiths",
+      "label": "search as"
+    },
+    {
+      "source": "baptism",
+      "target": "baptism",
+      "label": "be baptized"
+    },
+    {
+      "source": "Jesus",
+      "target": "Savior",
+      "label": "as"
+    },
+    {
+      "source": "buzzword",
+      "target": "state authority",
+      "label": "for"
+    },
+    {
+      "source": "buzzword",
+      "target": "socialized medicine",
+      "label": "for"
+    },
+    {
+      "source": "Fascism",
+      "target": "violent tyranny",
+      "label": "equated with"
+    },
+    {
+      "source": "Fascism",
+      "target": "war",
+      "label": "equated with"
+    },
+    {
+      "source": "Fascism",
+      "target": "ideology",
+      "label": "is a"
+    },
+    {
+      "source": "Fascism",
+      "target": "Latin word fascis",
+      "label": "from"
+    },
+    {
+      "source": "left wing",
+      "target": "buzzword",
+      "label": "use"
+    },
+    {
+      "source": "right wings",
+      "target": "buzzword",
+      "label": "use"
+    },
+    {
+      "source": "Human beings",
+      "target": "sin",
+      "label": "are inclined towards"
+    },
+    {
+      "source": "Everyone",
+      "target": "urge",
+      "label": "feels"
+    },
+    {
+      "source": "benefits",
+      "target": "cost",
+      "label": "at the cost of"
+    },
+    {
+      "source": "sinning",
+      "target": "benefits",
+      "label": "gives"
+    },
+    {
+      "source": "Japanese emperors",
+      "target": "deities",
+      "label": "were"
+    },
+    {
+      "source": "Japanese emperors",
+      "target": "state religion",
+      "label": "were"
+    },
+    {
+      "source": "ancient Roman Emperors",
+      "target": "deities",
+      "label": "were"
+    },
+    {
+      "source": "ancient Roman Emperors",
+      "target": "state religion",
+      "label": "were"
+    },
+    {
+      "source": "Japanese Emperor",
+      "target": "deities",
+      "label": "worship"
+    },
+    {
+      "source": "Egyptian pharaohs",
+      "target": "state religion",
+      "label": "were"
+    },
+    {
+      "source": "Egyptian pharaohs",
+      "target": "deities",
+      "label": "were"
+    },
+    {
+      "source": "humans",
+      "target": "gods",
+      "label": "were worshiped as"
+    },
+    {
+      "source": "yourself",
+      "target": "yourself",
+      "label": "feel like you've lost"
+    },
+    {
+      "source": "God's grace",
+      "target": "faith",
+      "label": "through"
+    },
+    {
+      "source": "faith",
+      "target": "Jesus",
+      "label": "in"
+    },
+    {
+      "source": "person",
+      "target": "God's grace",
+      "label": "is saved by"
+    },
+    {
+      "source": "Lutheranism",
+      "target": "denomination",
+      "label": "is a"
+    },
+    {
+      "source": "denomination",
+      "target": "Christian Church",
+      "label": "of"
+    },
+    {
+      "source": "Lutherans",
+      "target": "person",
+      "label": "believe"
+    },
+    {
+      "source": "physical characteristics",
+      "target": "small single-creased hands",
+      "label": "include"
+    },
+    {
+      "source": "physical characteristics",
+      "target": "heart defects",
+      "label": "include"
+    },
+    {
+      "source": "physical characteristics",
+      "target": "facial features",
+      "label": "include"
+    },
+    {
+      "source": "physical characteristics",
+      "target": "hearing problems",
+      "label": "include"
+    },
+    {
+      "source": "Down syndrome",
+      "target": "intellect",
+      "label": "leads to"
+    },
+    {
+      "source": "Down syndrome",
+      "target": "physical characteristics",
+      "label": "leads to"
+    },
+    {
+      "source": "Down syndrome",
+      "target": "babies",
+      "label": "occurs in"
+    },
+    {
+      "source": "Down syndrome",
+      "target": "mental characteristics",
+      "label": "leads to"
+    },
+    {
+      "source": "Down syndrome",
+      "target": "chromosomal abnormality",
+      "label": "is a"
+    },
+    {
+      "source": "Down syndrome",
+      "target": "learning disabilities",
+      "label": "leads to"
+    },
+    {
+      "source": "facial features",
+      "target": "slanted eyes",
+      "label": "include"
+    },
+    {
+      "source": "facial features",
+      "target": "low-set ears",
+      "label": "include"
+    },
+    {
+      "source": "facial features",
+      "target": "thick tongue",
+      "label": "include"
+    },
+    {
+      "source": "chromosomal abnormality",
+      "target": "genetic disability",
+      "label": "is a"
+    },
+    {
+      "source": "Cyclic Vomiting Syndrome (CVS)",
+      "target": "diagnosis",
+      "label": "diagnosis"
+    },
+    {
+      "source": "Cyclic Vomiting Syndrome (CVS)",
+      "target": "treatment",
+      "label": "treatment"
+    },
+    {
+      "source": "treatment",
+      "target": "symptoms",
+      "label": "ease"
+    },
+    {
+      "source": "development",
+      "target": "physical traits",
+      "label": "causes"
+    },
+    {
+      "source": "development",
+      "target": "mental traits",
+      "label": "causes"
+    },
+    {
+      "source": "21st chromosome",
+      "target": "genetic material",
+      "label": "is"
+    },
+    {
+      "source": "genetic material",
+      "target": "development",
+      "label": "alters"
+    },
+    {
+      "source": "Down Syndrome",
+      "target": "21st chromosome",
+      "label": "is a condition of"
+    },
+    {
+      "source": "Down Syndrome",
+      "target": "physical traits",
+      "label": "is associated with"
+    },
+    {
+      "source": "Down Syndrome",
+      "target": "mental traits",
+      "label": "is associated with"
+    },
+    {
+      "source": "pathogens",
+      "target": "morbidity",
+      "label": "have potential for"
+    },
+    {
+      "source": "pathogens",
+      "target": "mortality rates",
+      "label": "have potential for"
+    },
+    {
+      "source": "pathogens",
+      "target": "health impact",
+      "label": "have potential for"
+    },
+    {
+      "source": "agents",
+      "target": "mass dissemination",
+      "label": "could be engineered for"
+    },
+    {
+      "source": "category C bioterrorism agents",
+      "target": "agents",
+      "label": "are"
+    },
+    {
+      "source": "CDC",
+      "target": "category C bioterrorism agents",
+      "label": "states"
+    },
+    {
+      "source": "CDC",
+      "target": "diseases",
+      "label": "avoid contracting"
+    },
+    {
+      "source": "CDC",
+      "target": "drinks",
+      "label": "recommend"
+    },
+    {
+      "source": "South America",
+      "target": "amebiasis",
+      "label": "is a location of"
+    },
+    {
+      "source": "Africa",
+      "target": "amebiasis",
+      "label": "is a location of"
+    },
+    {
+      "source": "Travel",
+      "target": "amebiasis",
+      "label": "is a risk for"
+    },
+    {
+      "source": "sanitation",
+      "target": "amebiasis",
+      "label": "is a factor for"
+    },
+    {
+      "source": "tropical area",
+      "target": "amebiasis",
+      "label": "is a risk for"
+    },
+    {
+      "source": "India",
+      "target": "amebiasis",
+      "label": "is a location of"
+    },
+    {
+      "source": "Central America",
+      "target": "amebiasis",
+      "label": "is a location of"
+    },
+    {
+      "source": "health",
+      "target": "health",
+      "label": "is"
+    },
+    {
+      "source": "health",
+      "target": "mental health",
+      "label": "includes"
+    },
+    {
+      "source": "health",
+      "target": "physical health",
+      "label": "includes"
+    },
+    {
+      "source": "health",
+      "target": "emotional health",
+      "label": "includes"
+    },
+    {
+      "source": "sickness",
+      "target": "sickness",
+      "label": "get over"
+    },
+    {
+      "source": "parasitic infection",
+      "target": "gastrointestinal tract",
+      "label": "of"
+    },
+    {
+      "source": "parasitic infection",
+      "target": "larval nematodes",
+      "label": "by"
+    },
+    {
+      "source": "Anisakidae",
+      "target": "Phocanema",
+      "label": "including genera"
+    },
+    {
+      "source": "Anisakidae",
+      "target": "Terranova",
+      "label": "including genera"
+    },
+    {
+      "source": "Anisakidae",
+      "target": "Anisakis",
+      "label": "including genera"
+    },
+    {
+      "source": "Anisakidae",
+      "target": "Contracaecum",
+      "label": "including genera"
+    },
+    {
+      "source": "Anisakiasis",
+      "target": "parasitic infection",
+      "label": "is a"
+    },
+    {
+      "source": "larval nematodes",
+      "target": "Anisakidae",
+      "label": "of the family"
+    },
+    {
+      "source": "loofah",
+      "target": "plastic",
+      "label": "made from"
+    },
+    {
+      "source": "loofah",
+      "target": "personal hygiene",
+      "label": "used for"
+    },
+    {
+      "source": "loofah",
+      "target": "dead skin",
+      "label": "used for"
+    },
+    {
+      "source": "loofah",
+      "target": "sponge",
+      "label": "is also known as"
+    },
+    {
+      "source": "loofah",
+      "target": "synthetic material",
+      "label": "made from"
+    },
+    {
+      "source": "natural loofahs",
+      "target": "loofah fruit",
+      "label": "come from"
+    },
+    {
+      "source": "earbuds",
+      "target": "podcasts",
+      "label": "catching up on"
+    },
+    {
+      "source": "earbuds",
+      "target": "YouTube videos",
+      "label": "watching"
+    },
+    {
+      "source": "earbuds",
+      "target": "music",
+      "label": "listening to"
+    },
+    {
+      "source": "toilet",
+      "target": "home's water",
+      "label": "account for"
+    },
+    {
+      "source": "toilet",
+      "target": "environment",
+      "label": "benefit"
+    },
+    {
+      "source": "buildup",
+      "target": "skin",
+      "label": "irritates"
+    },
+    {
+      "source": "buildup",
+      "target": "band",
+      "label": "stains"
+    },
+    {
+      "source": "use",
+      "target": "Fitbit bands",
+      "label": "during"
+    },
+    {
+      "source": "Fitbit bands",
+      "target": "sweat",
+      "label": "pick up"
+    },
+    {
+      "source": "Fitbit bands",
+      "target": "oil",
+      "label": "pick up"
+    },
+    {
+      "source": "Fitbit bands",
+      "target": "debris",
+      "label": "pick up"
+    },
+    {
+      "source": "sweat",
+      "target": "equipment",
+      "label": "pouring over"
+    },
+    {
+      "source": "Methicillin Resistant Staphylococcus Aureus (MRSA)",
+      "target": "staph bacteria",
+      "label": "is a"
+    },
+    {
+      "source": "Methicillin Resistant Staphylococcus Aureus (MRSA)",
+      "target": "methicillin",
+      "label": "cannot be treated using"
+    },
+    {
+      "source": "Methicillin Resistant Staphylococcus Aureus (MRSA)",
+      "target": "antibiotics",
+      "label": "resistant to"
+    },
+    {
+      "source": "staph bacteria",
+      "target": "skin",
+      "label": "live on"
+    },
+    {
+      "source": "staph bacteria",
+      "target": "nose",
+      "label": "live in"
+    },
+    {
+      "source": "Exercise",
+      "target": "immune system",
+      "label": "boost"
+    },
+    {
+      "source": "Exercise",
+      "target": "body",
+      "label": "develop"
+    },
+    {
+      "source": "Exercise",
+      "target": "mind",
+      "label": "calm"
+    },
+    {
+      "source": "Gyms",
+      "target": "germs",
+      "label": "are breeding ground for"
+    },
+    {
+      "source": "Gyms",
+      "target": "bacteria",
+      "label": "are breeding ground for"
+    },
+    {
+      "source": "Gyms",
+      "target": "Gyms",
+      "label": "are"
+    },
+    {
+      "source": "germs",
+      "target": "drinks",
+      "label": "spreading through"
+    },
+    {
+      "source": "bacteria",
+      "target": "diseases",
+      "label": "cause"
+    },
+    {
+      "source": "diseases",
+      "target": "mono",
+      "label": "like"
+    },
+    {
+      "source": "diseases",
+      "target": "common cold",
+      "label": "like"
+    },
+    {
+      "source": "shared surfaces",
+      "target": "shared surfaces",
+      "label": "cleaning and disinfecting"
+    },
+    {
+      "source": "shared surfaces",
+      "target": "preventative strategies",
+      "label": "is a"
+    },
+    {
+      "source": "hand washing",
+      "target": "preventative strategies",
+      "label": "is a"
+    },
+    {
+      "source": "preventative strategies",
+      "target": "flu",
+      "label": "decrease chances of catching"
+    },
+    {
+      "source": "person with the flu",
+      "target": "preventative strategies",
+      "label": "practice"
+    },
+    {
+      "source": "person with the flu",
+      "target": "flu",
+      "label": "caring for"
+    },
+    {
+      "source": "infected person",
+      "target": "person with the flu",
+      "label": "keep space between"
+    },
+    {
+      "source": "spit",
+      "target": "spit",
+      "label": "can"
+    },
+    {
+      "source": "Public restrooms",
+      "target": "germs",
+      "label": "harbor"
+    },
+    {
+      "source": "Public restrooms",
+      "target": "bacteria",
+      "label": "harbor"
+    },
+    {
+      "source": "toilet seat",
+      "target": "diseases",
+      "label": "related to"
+    },
+    {
+      "source": "public toilets",
+      "target": "diseases",
+      "label": "related to"
+    },
+    {
+      "source": "morning routine",
+      "target": "changes",
+      "label": "like to make"
+    },
+    {
+      "source": "indoor plumbing",
+      "target": "defecate",
+      "label": "relieve"
+    },
+    {
+      "source": "indoor plumbing",
+      "target": "urinate",
+      "label": "relieve"
+    },
+    {
+      "source": "defecate",
+      "target": "evidence",
+      "label": "leave"
+    },
+    {
+      "source": "urinate",
+      "target": "evidence",
+      "label": "leave"
+    },
+    {
+      "source": "spot",
+      "target": "mess",
+      "label": "urinate"
+    },
+    {
+      "source": "water",
+      "target": "microorganisms",
+      "label": "is contaminated with"
+    },
+    {
+      "source": "you",
+      "target": "you",
+      "label": "is pregnant"
+    },
+    {
+      "source": "you",
+      "target": "nutrition",
+      "label": "need to pay attention to"
+    },
+    {
+      "source": "nutrition",
+      "target": "baby",
+      "label": "is important for"
+    },
+    {
+      "source": "baby",
+      "target": "baby",
+      "label": "will be healthy"
+    },
+    {
+      "source": "baby",
+      "target": "nutrition",
+      "label": "getting"
+    },
+    {
+      "source": "baby",
+      "target": "utero",
+      "label": "in"
+    },
+    {
+      "source": "pregnancy",
+      "target": "baby",
+      "label": "is important for"
+    },
+    {
+      "source": "pregnancy",
+      "target": "first trimester",
+      "label": "as early as"
+    },
+    {
+      "source": "height",
+      "target": "genetics",
+      "label": "determined by"
+    },
+    {
+      "source": "height",
+      "target": "environmental factors",
+      "label": "determined by"
+    },
+    {
+      "source": "Pregnancy",
+      "target": "woman",
+      "label": "is a time in"
+    },
+    {
+      "source": "celebrities",
+      "target": "stomachs",
+      "label": "show"
+    },
+    {
+      "source": "public",
+      "target": "celebrities",
+      "label": "is following"
+    },
+    {
+      "source": "supplies",
+      "target": "sickness",
+      "label": "helps with"
+    },
+    {
+      "source": "strategy",
+      "target": "sickness",
+      "label": "helps with"
+    },
+    {
+      "source": "facial",
+      "target": "skin",
+      "label": "make"
+    },
+    {
+      "source": "festive season",
+      "target": "year",
+      "label": "is part of"
+    },
+    {
+      "source": "new year",
+      "target": "year",
+      "label": "is"
+    },
+    {
+      "source": "steps",
+      "target": "life",
+      "label": "create"
+    },
+    {
+      "source": "diary",
+      "target": "wellness",
+      "label": "related to"
+    },
+    {
+      "source": "diary",
+      "target": "information",
+      "label": "helps with"
+    },
+    {
+      "source": "health journal",
+      "target": "information",
+      "label": "helps with"
+    },
+    {
+      "source": "health journal",
+      "target": "wellness",
+      "label": "related to"
+    },
+    {
+      "source": "chronic conditions",
+      "target": "progression of the disease",
+      "label": "related to"
+    },
+    {
+      "source": "Curcumin",
+      "target": "inflammation",
+      "label": "reduces"
+    },
+    {
+      "source": "Curcumin",
+      "target": "cancers",
+      "label": "fights off"
+    },
+    {
+      "source": "Curcumin",
+      "target": "infection",
+      "label": "treats"
+    },
+    {
+      "source": "Curcumin",
+      "target": "digestive issues",
+      "label": "helps with"
+    },
+    {
+      "source": "Turmeric",
+      "target": "infection",
+      "label": "treats"
+    },
+    {
+      "source": "Turmeric",
+      "target": "cancers",
+      "label": "fights off"
+    },
+    {
+      "source": "Turmeric",
+      "target": "inflammation",
+      "label": "reduces"
+    },
+    {
+      "source": "Turmeric",
+      "target": "digestive issues",
+      "label": "helps with"
+    },
+    {
+      "source": "recovering from procedures",
+      "target": "surgery",
+      "label": "is related to"
+    },
+    {
+      "source": "recovering from procedures",
+      "target": "procedures",
+      "label": "is related to"
+    },
+    {
+      "source": "recovering from procedures",
+      "target": "infections",
+      "label": "is related to"
+    },
+    {
+      "source": "recovering from procedures",
+      "target": "hospitalization",
+      "label": "is related to"
+    },
+    {
+      "source": "surgery",
+      "target": "recovering from procedures",
+      "label": "is related to"
+    },
+    {
+      "source": "procedures",
+      "target": "recovering from procedures",
+      "label": "is related to"
+    },
+    {
+      "source": "infections",
+      "target": "hospitalization",
+      "label": "is related to"
+    },
+    {
+      "source": "being ill",
+      "target": "procedures",
+      "label": "is related to"
+    },
+    {
+      "source": "being ill",
+      "target": "hospitalization",
+      "label": "is related to"
+    },
+    {
+      "source": "being ill",
+      "target": "recovering from procedures",
+      "label": "is related to"
+    },
+    {
+      "source": "being ill",
+      "target": "surgery",
+      "label": "is related to"
+    },
+    {
+      "source": "hospitalization",
+      "target": "recovering from procedures",
+      "label": "is related to"
+    },
+    {
+      "source": "winter weather",
+      "target": "immunity",
+      "label": "can break down"
+    },
+    {
+      "source": "Spring semester",
+      "target": "fall semester",
+      "label": "is harder than"
+    },
+    {
+      "source": "Lead",
+      "target": "Pb",
+      "label": "also known as"
+    },
+    {
+      "source": "Lead",
+      "target": "plumbum",
+      "label": "also known as"
+    },
+    {
+      "source": "Pb",
+      "target": "periodic table",
+      "label": "on"
+    },
+    {
+      "source": "plumbum",
+      "target": "Latin",
+      "label": "in"
+    },
+    {
+      "source": "Spondylosis",
+      "target": "spinal discs",
+      "label": "is the degeneration of"
+    },
+    {
+      "source": "Spondylosis",
+      "target": "older people",
+      "label": "is a common condition among"
+    },
+    {
+      "source": "Spondylosis",
+      "target": "cervical spondylosis",
+      "label": "also known as"
+    },
+    {
+      "source": "Spondylosis",
+      "target": "cervical osteoarthritis",
+      "label": "also known as"
+    },
+    {
+      "source": "spinal discs",
+      "target": "neck",
+      "label": "in"
+    },
+    {
+      "source": "Eye correction surgery",
+      "target": "astigmatism",
+      "label": "corrects"
+    },
+    {
+      "source": "Eye correction surgery",
+      "target": "Lasik",
+      "label": "is also known as"
+    },
+    {
+      "source": "Eye correction surgery",
+      "target": "farsightedness",
+      "label": "corrects"
+    },
+    {
+      "source": "Eye correction surgery",
+      "target": "nearsightedness",
+      "label": "corrects"
+    },
+    {
+      "source": "Lasik",
+      "target": "Laser-assisted in situ keratomileusis",
+      "label": "is also known as"
+    },
+    {
+      "source": "kidneys",
+      "target": "urine",
+      "label": "impact"
+    },
+    {
+      "source": "kidneys",
+      "target": "filters",
+      "label": "function as"
+    },
+    {
+      "source": "kidneys",
+      "target": "electrolyte balance",
+      "label": "impact"
+    },
+    {
+      "source": "kidneys",
+      "target": "fluid",
+      "label": "impact"
+    },
+    {
+      "source": "kidneys",
+      "target": "energy levels",
+      "label": "impact"
+    },
+    {
+      "source": "kidneys",
+      "target": "red blood cell production",
+      "label": "impact"
+    },
+    {
+      "source": "kidneys",
+      "target": "blood pressure regulation",
+      "label": "impact"
+    },
+    {
+      "source": "organs",
+      "target": "filters",
+      "label": "function as"
+    },
+    {
+      "source": "hyperthyroidism",
+      "target": "difficulty sleeping",
+      "label": "causes"
+    },
+    {
+      "source": "hyperthyroidism",
+      "target": "metabolism",
+      "label": "affects"
+    },
+    {
+      "source": "hyperthyroidism",
+      "target": "moodiness",
+      "label": "causes"
+    },
+    {
+      "source": "hyperthyroidism",
+      "target": "thyroid",
+      "label": "causes"
+    },
+    {
+      "source": "hyperthyroidism",
+      "target": "weight loss",
+      "label": "causes"
+    },
+    {
+      "source": "thyroid-stimulating hormones (TSH)",
+      "target": "hyperthyroidism",
+      "label": "leads to"
+    },
+    {
+      "source": "tobacco products",
+      "target": "ingredients",
+      "label": "can be revitalized with"
+    },
+    {
+      "source": "tobacco products",
+      "target": "flavor",
+      "label": "improves"
+    },
+    {
+      "source": "cigars",
+      "target": "flavor",
+      "label": "can be flavored with"
+    },
+    {
+      "source": "pipe tobacco",
+      "target": "flavor",
+      "label": "can be flavored with"
+    },
+    {
+      "source": "herbal remedies",
+      "target": "pipe",
+      "label": "are vaporized with"
+    },
+    {
+      "source": "herbal remedies",
+      "target": "refrigerator",
+      "label": "are vaporized with"
+    },
+    {
+      "source": "pipe",
+      "target": "house",
+      "label": "is in"
+    },
+    {
+      "source": "pipe",
+      "target": "smoke",
+      "label": "related to"
+    },
+    {
+      "source": "refrigerator",
+      "target": "house",
+      "label": "is in"
+    },
+    {
+      "source": "bong",
+      "target": "water bottle",
+      "label": "make"
+    },
+    {
+      "source": "WikiHow",
+      "target": "pipe",
+      "label": "shows"
+    },
+    {
+      "source": "WikiHow",
+      "target": "apple",
+      "label": "shows"
+    },
+    {
+      "source": "apple",
+      "target": "pipe",
+      "label": "used for"
+    },
+    {
+      "source": "cigarettes",
+      "target": "lung cancer",
+      "label": "cause"
+    },
+    {
+      "source": "Pipes",
+      "target": "oral cancer",
+      "label": "cause"
+    },
+    {
+      "source": "one-hitter",
+      "target": "herbal ingredient",
+      "label": "permitting user to receive benefits of"
+    },
+    {
+      "source": "one-hitter",
+      "target": "carbon monoxide",
+      "label": "minimizing"
+    },
+    {
+      "source": "one-hitter",
+      "target": "combustion toxins",
+      "label": "minimizing"
+    },
+    {
+      "source": "particle sizes",
+      "target": "one-hitter",
+      "label": "can be smoked in"
+    },
+    {
+      "source": "herb",
+      "target": "plant",
+      "label": "is a"
+    },
+    {
+      "source": "Bob Marley",
+      "target": "herb",
+      "label": "said"
+    },
+    {
+      "source": "egg donation",
+      "target": "family",
+      "label": "can help"
+    },
+    {
+      "source": "egg donation",
+      "target": "payment",
+      "label": "can result in"
+    },
+    {
+      "source": "income",
+      "target": "debt",
+      "label": "can be used towards"
+    },
+    {
+      "source": "income",
+      "target": "financial goals",
+      "label": "can be used towards"
+    },
+    {
+      "source": "payment",
+      "target": "financial goals",
+      "label": "can be used towards"
+    },
+    {
+      "source": "payment",
+      "target": "debt",
+      "label": "can be used towards"
+    },
+    {
+      "source": "eggs",
+      "target": "payment",
+      "label": "can result in"
+    },
+    {
+      "source": "postpartum depression",
+      "target": "listlessness",
+      "label": "can involve"
+    },
+    {
+      "source": "postpartum depression",
+      "target": "anxiety",
+      "label": "can involve"
+    },
+    {
+      "source": "postpartum depression",
+      "target": "sadness",
+      "label": "can involve"
+    },
+    {
+      "source": "postpartum depression",
+      "target": "baby blues",
+      "label": "is more serious than"
+    },
+    {
+      "source": "postpartum depression",
+      "target": "guilt",
+      "label": "can involve"
+    },
+    {
+      "source": "women",
+      "target": "postpartum depression",
+      "label": "suffer from"
+    },
+    {
+      "source": "women",
+      "target": "careers",
+      "label": "get established in"
+    },
+    {
+      "source": "women",
+      "target": "educations",
+      "label": "finish"
+    },
+    {
+      "source": "women",
+      "target": "pregnancy",
+      "label": "delaying"
+    },
+    {
+      "source": "women",
+      "target": "children",
+      "label": "have"
+    },
+    {
+      "source": "women",
+      "target": "college student",
+      "label": "are"
+    },
+    {
+      "source": "women",
+      "target": "college",
+      "label": "attend"
+    },
+    {
+      "source": "women",
+      "target": "child",
+      "label": "can have"
+    },
+    {
+      "source": "women",
+      "target": "parent",
+      "label": "are"
+    },
+    {
+      "source": "age",
+      "target": "women",
+      "label": "of"
+    },
+    {
+      "source": "child",
+      "target": "father",
+      "label": "child's paternity"
+    },
+    {
+      "source": "time",
+      "target": "child's paternity",
+      "label": "tainting"
+    },
+    {
+      "source": "pregnant women",
+      "target": "hips",
+      "label": "get"
+    },
+    {
+      "source": "pregnant women",
+      "target": "abdomen",
+      "label": "get"
+    },
+    {
+      "source": "pregnant women",
+      "target": "Stretch marks",
+      "label": "get"
+    },
+    {
+      "source": "pregnant women",
+      "target": "thighs",
+      "label": "get"
+    },
+    {
+      "source": "Stretch marks",
+      "target": "pregnancy",
+      "label": "occur during"
+    },
+    {
+      "source": "Stretch marks",
+      "target": "body size",
+      "label": "occur during"
+    },
+    {
+      "source": "Stretch marks",
+      "target": "Stretch marks",
+      "label": "are genetic"
+    },
+    {
+      "source": "Stretch marks",
+      "target": "puberty",
+      "label": "occur during"
+    },
+    {
+      "source": "Stretch marks",
+      "target": "rapid weight-gain",
+      "label": "occur during"
+    },
+    {
+      "source": "mom",
+      "target": "Stretch marks",
+      "label": "had"
+    },
+    {
+      "source": "Pregnancy hormones",
+      "target": "digestive cycle",
+      "label": "begin to slow"
+    },
+    {
+      "source": "digestive cycle",
+      "target": "first trimester",
+      "label": "as early as"
+    },
+    {
+      "source": "side effects",
+      "target": "pregnancy",
+      "label": "associated with"
+    },
+    {
+      "source": "progesterone",
+      "target": "digestive cycle",
+      "label": "begin to slow"
+    },
+    {
+      "source": "Gas",
+      "target": "side effects",
+      "label": "can be"
+    }
+  ]
+}

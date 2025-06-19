@@ -1,0 +1,1195 @@
+{
+  "nodes": [
+    {
+      "id": "PPS"
+    },
+    {
+      "id": "facet joints"
+    },
+    {
+      "id": "Jamshidi needles"
+    },
+    {
+      "id": "Kirschner wire"
+    },
+    {
+      "id": "Percutaneous pedicle screws"
+    },
+    {
+      "id": "thoracolumbar fracture"
+    },
+    {
+      "id": "annular tubes"
+    },
+    {
+      "id": "pedicles"
+    },
+    {
+      "id": "retractor tube"
+    },
+    {
+      "id": "fluoroscopy"
+    },
+    {
+      "id": "pentraxin-3 (PTX3)"
+    },
+    {
+      "id": "septic shock"
+    },
+    {
+      "id": "procalcitonin (PCT)"
+    },
+    {
+      "id": "28-day mortality"
+    },
+    {
+      "id": "Sequential Organ Failure Assessment (SOFA)"
+    },
+    {
+      "id": "sepsis"
+    },
+    {
+      "id": "Acute Physiology and Chronic Health Evaluation II (APACHE II)"
+    },
+    {
+      "id": "lactate"
+    },
+    {
+      "id": "ICU management"
+    },
+    {
+      "id": "stunted"
+    },
+    {
+      "id": "Extremely low birth weight (ELBW) infants"
+    },
+    {
+      "id": "2009-2011"
+    },
+    {
+      "id": "underweight"
+    },
+    {
+      "id": "length"
+    },
+    {
+      "id": "Z-scores"
+    },
+    {
+      "id": "controls"
+    },
+    {
+      "id": "5 y of age"
+    },
+    {
+      "id": "occipitofrontal circumference"
+    },
+    {
+      "id": "prospective cohort study"
+    },
+    {
+      "id": "longitudinal growth"
+    },
+    {
+      "id": "ELBW cohort"
+    },
+    {
+      "id": "weight"
+    },
+    {
+      "id": "WHO software"
+    },
+    {
+      "id": "catch-up growth"
+    },
+    {
+      "id": "microcephaly"
+    },
+    {
+      "id": "undernutrition"
+    },
+    {
+      "id": "next generation sequencing (NGS)"
+    },
+    {
+      "id": "human diseases"
+    },
+    {
+      "id": "metagenomics"
+    },
+    {
+      "id": "medical microbiology"
+    },
+    {
+      "id": "sequencing tools"
+    },
+    {
+      "id": "genomic DNA"
+    },
+    {
+      "id": "sequencing data"
+    },
+    {
+      "id": "pathogen"
+    },
+    {
+      "id": "genome sequencing"
+    },
+    {
+      "id": "microbiology"
+    },
+    {
+      "id": "infectious disease"
+    },
+    {
+      "id": "genomics"
+    },
+    {
+      "id": "diagnosis"
+    },
+    {
+      "id": "fundamental biology"
+    },
+    {
+      "id": "human micro-floras"
+    },
+    {
+      "id": "obesity"
+    },
+    {
+      "id": "antibiotic resistance"
+    },
+    {
+      "id": "vaccines"
+    },
+    {
+      "id": "culture media"
+    },
+    {
+      "id": "virulence"
+    },
+    {
+      "id": "chlorine n-type doping"
+    },
+    {
+      "id": "photogating effect"
+    },
+    {
+      "id": "chemical in situ doping"
+    },
+    {
+      "id": "gold chloride hydrate"
+    },
+    {
+      "id": "Transition metal dichalcogenides"
+    },
+    {
+      "id": "two-dimensional materials"
+    },
+    {
+      "id": "large-scale fabrication"
+    },
+    {
+      "id": "chemical vapor deposition"
+    },
+    {
+      "id": "MoS2"
+    },
+    {
+      "id": "TMDs"
+    },
+    {
+      "id": "photodetectors"
+    },
+    {
+      "id": "gate voltage"
+    },
+    {
+      "id": "VDS"
+    },
+    {
+      "id": "photodetection"
+    },
+    {
+      "id": "ultrahigh source-drain voltage"
+    },
+    {
+      "id": "optoelectronic devices"
+    },
+    {
+      "id": "2D materials"
+    },
+    {
+      "id": "CVD"
+    },
+    {
+      "id": "tunable band gap"
+    },
+    {
+      "id": "nondangling bonds"
+    },
+    {
+      "id": "high-performance MoS2 photodetectors"
+    },
+    {
+      "id": "VGS"
+    },
+    {
+      "id": "neuropathic pain"
+    },
+    {
+      "id": "thermal hyperalgesia"
+    },
+    {
+      "id": "interleukin-4"
+    },
+    {
+      "id": "tumor necrosis factor-\u03b1"
+    },
+    {
+      "id": "cytokines"
+    },
+    {
+      "id": "chronic constriction injury (CCI)"
+    },
+    {
+      "id": "knockout of CCR5"
+    },
+    {
+      "id": "interleukin-1\u03b2"
+    },
+    {
+      "id": "mechanical allodynia"
+    },
+    {
+      "id": "CCL3-neutralizing antibody"
+    },
+    {
+      "id": "CCL3"
+    },
+    {
+      "id": "CCR5"
+    },
+    {
+      "id": "sciatic nerve"
+    },
+    {
+      "id": "microglial activation"
+    },
+    {
+      "id": "chemokines"
+    },
+    {
+      "id": "p38 mitogen-activated protein kinase"
+    },
+    {
+      "id": "Fascial Manipulation\u00ae (FM\u00ae) method"
+    },
+    {
+      "id": "standard physical therapy treatment (SPT)"
+    },
+    {
+      "id": "Oswestry Disability Index (ODI)"
+    },
+    {
+      "id": "participants"
+    },
+    {
+      "id": "clinical trial"
+    },
+    {
+      "id": "Global Rating of Change (GROC)"
+    },
+    {
+      "id": "low back pain (LBP)"
+    },
+    {
+      "id": "ODI minimal clinical importance difference (MCID)"
+    },
+    {
+      "id": "scores"
+    },
+    {
+      "id": "treatment technique"
+    },
+    {
+      "id": "Connective tissue"
+    },
+    {
+      "id": "motor unit recruitment"
+    },
+    {
+      "id": "Numeric Pain Rating Scale (NPRS)"
+    },
+    {
+      "id": "deep fascia"
+    },
+    {
+      "id": "fascial mobility"
+    },
+    {
+      "id": "vesicles"
+    },
+    {
+      "id": "endomembrane system"
+    },
+    {
+      "id": "metagenomic studies"
+    },
+    {
+      "id": "archaeal lineages"
+    },
+    {
+      "id": "mitochondria"
+    },
+    {
+      "id": "ATP synthesis"
+    },
+    {
+      "id": "cytosol"
+    },
+    {
+      "id": "bioenergetic membranes"
+    },
+    {
+      "id": "phagotrophic host"
+    },
+    {
+      "id": "chemiosmotic ATP synthesis"
+    },
+    {
+      "id": "amino acid fermentations"
+    },
+    {
+      "id": "mitochondrion-bearing cell"
+    },
+    {
+      "id": "phagocytosis"
+    },
+    {
+      "id": "prokaryotic prey"
+    },
+    {
+      "id": "eukaryote"
+    },
+    {
+      "id": "common ancestor"
+    },
+    {
+      "id": "plasma membrane"
+    },
+    {
+      "id": "chemiosmosis"
+    },
+    {
+      "id": "bacterial genes"
+    },
+    {
+      "id": "Aga Khan University Hospital (AKUH)"
+    },
+    {
+      "id": "primary total knee replacement (TKR) surgery"
+    },
+    {
+      "id": "Surgical Site Infection (SSI)"
+    },
+    {
+      "id": "knee arthroplasty"
+    },
+    {
+      "id": "SSI nurses"
+    },
+    {
+      "id": "post-discharge surveillance"
+    },
+    {
+      "id": "total knee arthroplasty"
+    },
+    {
+      "id": "164 patients"
+    },
+    {
+      "id": "PROCESS criteria"
+    },
+    {
+      "id": "surgeons"
+    },
+    {
+      "id": "weight reduction"
+    },
+    {
+      "id": "patients"
+    },
+    {
+      "id": "hysterectomy"
+    },
+    {
+      "id": "postoperative morbidity"
+    },
+    {
+      "id": "body mass index (BMI)"
+    },
+    {
+      "id": "American College of Surgeons National Safety and Quality Improvement Program"
+    },
+    {
+      "id": "benign disease"
+    },
+    {
+      "id": "laparoscopic hysterectomy"
+    },
+    {
+      "id": "abdominal hysterectomy"
+    },
+    {
+      "id": "United States"
+    }
+  ],
+  "links": [
+    {
+      "source": "PPS",
+      "target": "facet joints",
+      "label": "placement involves"
+    },
+    {
+      "source": "PPS",
+      "target": "fluoroscopy",
+      "label": "placement confirmed by"
+    },
+    {
+      "source": "PPS",
+      "target": "Jamshidi needles",
+      "label": "placement involves"
+    },
+    {
+      "source": "Jamshidi needles",
+      "target": "Kirschner wire",
+      "label": "placed with"
+    },
+    {
+      "source": "Percutaneous pedicle screws",
+      "target": "thoracolumbar fracture",
+      "label": "used for"
+    },
+    {
+      "source": "annular tubes",
+      "target": "pedicles",
+      "label": "inserted into"
+    },
+    {
+      "source": "annular tubes",
+      "target": "Kirschner wire",
+      "label": "placed along"
+    },
+    {
+      "source": "retractor tube",
+      "target": "facet joints",
+      "label": "enables visualization of"
+    },
+    {
+      "source": "retractor tube",
+      "target": "Jamshidi needles",
+      "label": "enables placement of"
+    },
+    {
+      "source": "retractor tube",
+      "target": "PPS",
+      "label": "used in"
+    },
+    {
+      "source": "fluoroscopy",
+      "target": "PPS",
+      "label": "confirms position of"
+    },
+    {
+      "source": "fluoroscopy",
+      "target": "Jamshidi needles",
+      "label": "confirms position of"
+    },
+    {
+      "source": "pentraxin-3 (PTX3)",
+      "target": "septic shock",
+      "label": "measured in"
+    },
+    {
+      "source": "pentraxin-3 (PTX3)",
+      "target": "Sequential Organ Failure Assessment (SOFA)",
+      "label": "positively correlated with"
+    },
+    {
+      "source": "pentraxin-3 (PTX3)",
+      "target": "Acute Physiology and Chronic Health Evaluation II (APACHE II)",
+      "label": "positively correlated with"
+    },
+    {
+      "source": "pentraxin-3 (PTX3)",
+      "target": "28-day mortality",
+      "label": "associated with"
+    },
+    {
+      "source": "pentraxin-3 (PTX3)",
+      "target": "ICU management",
+      "label": "has prognostic value in"
+    },
+    {
+      "source": "pentraxin-3 (PTX3)",
+      "target": "sepsis",
+      "label": "measured in"
+    },
+    {
+      "source": "procalcitonin (PCT)",
+      "target": "28-day mortality",
+      "label": "associated with"
+    },
+    {
+      "source": "procalcitonin (PCT)",
+      "target": "sepsis",
+      "label": "measured in"
+    },
+    {
+      "source": "procalcitonin (PCT)",
+      "target": "Acute Physiology and Chronic Health Evaluation II (APACHE II)",
+      "label": "positively correlated with"
+    },
+    {
+      "source": "procalcitonin (PCT)",
+      "target": "ICU management",
+      "label": "has prognostic value in"
+    },
+    {
+      "source": "procalcitonin (PCT)",
+      "target": "septic shock",
+      "label": "measured in"
+    },
+    {
+      "source": "procalcitonin (PCT)",
+      "target": "Sequential Organ Failure Assessment (SOFA)",
+      "label": "positively correlated with"
+    },
+    {
+      "source": "lactate",
+      "target": "28-day mortality",
+      "label": "associated with"
+    },
+    {
+      "source": "lactate",
+      "target": "sepsis",
+      "label": "measured in"
+    },
+    {
+      "source": "lactate",
+      "target": "ICU management",
+      "label": "has prognostic value in"
+    },
+    {
+      "source": "lactate",
+      "target": "septic shock",
+      "label": "measured in"
+    },
+    {
+      "source": "lactate",
+      "target": "Sequential Organ Failure Assessment (SOFA)",
+      "label": "positively correlated with"
+    },
+    {
+      "source": "lactate",
+      "target": "Acute Physiology and Chronic Health Evaluation II (APACHE II)",
+      "label": "positively correlated with"
+    },
+    {
+      "source": "stunted",
+      "target": "Extremely low birth weight (ELBW) infants",
+      "label": "higher among"
+    },
+    {
+      "source": "Extremely low birth weight (ELBW) infants",
+      "target": "2009-2011",
+      "label": "discharged alive during"
+    },
+    {
+      "source": "Extremely low birth weight (ELBW) infants",
+      "target": "5 y of age",
+      "label": "assessed at"
+    },
+    {
+      "source": "Extremely low birth weight (ELBW) infants",
+      "target": "catch-up growth",
+      "label": "no"
+    },
+    {
+      "source": "Extremely low birth weight (ELBW) infants",
+      "target": "undernutrition",
+      "label": "have"
+    },
+    {
+      "source": "underweight",
+      "target": "Extremely low birth weight (ELBW) infants",
+      "label": "higher among"
+    },
+    {
+      "source": "length",
+      "target": "Z-scores",
+      "label": "recorded"
+    },
+    {
+      "source": "Z-scores",
+      "target": "WHO software",
+      "label": "calculated using"
+    },
+    {
+      "source": "controls",
+      "target": "5 y of age",
+      "label": "assessed at"
+    },
+    {
+      "source": "occipitofrontal circumference",
+      "target": "Z-scores",
+      "label": "recorded"
+    },
+    {
+      "source": "prospective cohort study",
+      "target": "longitudinal growth",
+      "label": "assessed"
+    },
+    {
+      "source": "ELBW cohort",
+      "target": "5 y of age",
+      "label": "assessed at"
+    },
+    {
+      "source": "ELBW cohort",
+      "target": "microcephaly",
+      "label": "had"
+    },
+    {
+      "source": "weight",
+      "target": "Z-scores",
+      "label": "recorded"
+    },
+    {
+      "source": "next generation sequencing (NGS)",
+      "target": "human diseases",
+      "label": "helping the comprehension and management of"
+    },
+    {
+      "source": "next generation sequencing (NGS)",
+      "target": "human micro-floras",
+      "label": "enabled efficient analysis of"
+    },
+    {
+      "source": "next generation sequencing (NGS)",
+      "target": "obesity",
+      "label": "helping the comprehension and management of"
+    },
+    {
+      "source": "next generation sequencing (NGS)",
+      "target": "microbiology",
+      "label": "revolutionized"
+    },
+    {
+      "source": "next generation sequencing (NGS)",
+      "target": "infectious disease",
+      "label": "revolutionized"
+    },
+    {
+      "source": "metagenomics",
+      "target": "medical microbiology",
+      "label": "relevant to"
+    },
+    {
+      "source": "sequencing tools",
+      "target": "genomic DNA",
+      "label": "evolved from"
+    },
+    {
+      "source": "sequencing data",
+      "target": "pathogen",
+      "label": "helped improve"
+    },
+    {
+      "source": "sequencing data",
+      "target": "diagnosis",
+      "label": "helped improve"
+    },
+    {
+      "source": "sequencing data",
+      "target": "fundamental biology",
+      "label": "enabled advances in"
+    },
+    {
+      "source": "sequencing data",
+      "target": "antibiotic resistance",
+      "label": "helped improve"
+    },
+    {
+      "source": "sequencing data",
+      "target": "vaccines",
+      "label": "helped improve"
+    },
+    {
+      "source": "sequencing data",
+      "target": "culture media",
+      "label": "helped improve"
+    },
+    {
+      "source": "sequencing data",
+      "target": "virulence",
+      "label": "helped improve"
+    },
+    {
+      "source": "genome sequencing",
+      "target": "microbiology",
+      "label": "revolutionized"
+    },
+    {
+      "source": "genome sequencing",
+      "target": "infectious disease",
+      "label": "revolutionized"
+    },
+    {
+      "source": "genomics",
+      "target": "medical microbiology",
+      "label": "relevant to"
+    },
+    {
+      "source": "chlorine n-type doping",
+      "target": "photogating effect",
+      "label": "promotes"
+    },
+    {
+      "source": "chlorine n-type doping",
+      "target": "2D materials",
+      "label": "is applicable to"
+    },
+    {
+      "source": "chlorine n-type doping",
+      "target": "high-performance MoS2 photodetectors",
+      "label": "leads to"
+    },
+    {
+      "source": "chemical in situ doping",
+      "target": "gold chloride hydrate",
+      "label": "uses"
+    },
+    {
+      "source": "Transition metal dichalcogenides",
+      "target": "two-dimensional materials",
+      "label": "are a category of"
+    },
+    {
+      "source": "Transition metal dichalcogenides",
+      "target": "optoelectronic devices",
+      "label": "are promising for"
+    },
+    {
+      "source": "Transition metal dichalcogenides",
+      "target": "large-scale fabrication",
+      "label": "are compatible with"
+    },
+    {
+      "source": "Transition metal dichalcogenides",
+      "target": "tunable band gap",
+      "label": "include"
+    },
+    {
+      "source": "Transition metal dichalcogenides",
+      "target": "nondangling bonds",
+      "label": "include"
+    },
+    {
+      "source": "large-scale fabrication",
+      "target": "chemical vapor deposition",
+      "label": "includes"
+    },
+    {
+      "source": "large-scale fabrication",
+      "target": "CVD",
+      "label": "includes"
+    },
+    {
+      "source": "MoS2",
+      "target": "TMDs",
+      "label": "is one of"
+    },
+    {
+      "source": "MoS2",
+      "target": "photodetection",
+      "label": "is studied in"
+    },
+    {
+      "source": "MoS2",
+      "target": "chemical in situ doping",
+      "label": "was improved by"
+    },
+    {
+      "source": "MoS2",
+      "target": "photodetectors",
+      "label": "is used in"
+    },
+    {
+      "source": "photodetectors",
+      "target": "gate voltage",
+      "label": "require"
+    },
+    {
+      "source": "photodetectors",
+      "target": "VDS",
+      "label": "require"
+    },
+    {
+      "source": "photodetectors",
+      "target": "ultrahigh source-drain voltage",
+      "label": "require"
+    },
+    {
+      "source": "photodetectors",
+      "target": "VGS",
+      "label": "require"
+    },
+    {
+      "source": "neuropathic pain",
+      "target": "thermal hyperalgesia",
+      "label": "was assessed by"
+    },
+    {
+      "source": "neuropathic pain",
+      "target": "mechanical allodynia",
+      "label": "was assessed by"
+    },
+    {
+      "source": "neuropathic pain",
+      "target": "sciatic nerve",
+      "label": "was induced by"
+    },
+    {
+      "source": "interleukin-4",
+      "target": "tumor necrosis factor-\u03b1",
+      "label": "suppressed"
+    },
+    {
+      "source": "interleukin-4",
+      "target": "interleukin-1\u03b2",
+      "label": "suppressed"
+    },
+    {
+      "source": "interleukin-4",
+      "target": "chronic constriction injury (CCI)",
+      "label": "alleviated"
+    },
+    {
+      "source": "cytokines",
+      "target": "chronic constriction injury (CCI)",
+      "label": "are involved in"
+    },
+    {
+      "source": "chronic constriction injury (CCI)",
+      "target": "neuropathic pain",
+      "label": "induced"
+    },
+    {
+      "source": "knockout of CCR5",
+      "target": "neuropathic pain",
+      "label": "suppressed"
+    },
+    {
+      "source": "CCL3-neutralizing antibody",
+      "target": "CCL3",
+      "label": "restored"
+    },
+    {
+      "source": "CCL3-neutralizing antibody",
+      "target": "tumor necrosis factor-\u03b1",
+      "label": "suppressed"
+    },
+    {
+      "source": "CCL3-neutralizing antibody",
+      "target": "interleukin-1\u03b2",
+      "label": "suppressed"
+    },
+    {
+      "source": "CCL3-neutralizing antibody",
+      "target": "CCR5",
+      "label": "restored"
+    },
+    {
+      "source": "CCL3-neutralizing antibody",
+      "target": "chronic constriction injury (CCI)",
+      "label": "alleviated"
+    },
+    {
+      "source": "CCL3-neutralizing antibody",
+      "target": "p38 mitogen-activated protein kinase",
+      "label": "suppressed"
+    },
+    {
+      "source": "CCL3",
+      "target": "chronic constriction injury (CCI)",
+      "label": "is involved in"
+    },
+    {
+      "source": "CCL3",
+      "target": "microglial activation",
+      "label": "was associated with"
+    },
+    {
+      "source": "CCR5",
+      "target": "chronic constriction injury (CCI)",
+      "label": "is involved in"
+    },
+    {
+      "source": "CCR5",
+      "target": "microglial activation",
+      "label": "was associated with"
+    },
+    {
+      "source": "chemokines",
+      "target": "chronic constriction injury (CCI)",
+      "label": "are involved in"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "standard physical therapy treatment (SPT)",
+      "label": "compared to"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "clinical trial",
+      "label": "used in"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "Global Rating of Change (GROC)",
+      "label": "improves"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "treatment technique",
+      "label": "provides"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "Numeric Pain Rating Scale (NPRS)",
+      "label": "improves"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "deep fascia",
+      "label": "assesses and treats"
+    },
+    {
+      "source": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "target": "Oswestry Disability Index (ODI)",
+      "label": "improves"
+    },
+    {
+      "source": "Oswestry Disability Index (ODI)",
+      "target": "participants",
+      "label": "used to monitor"
+    },
+    {
+      "source": "participants",
+      "target": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "label": "received"
+    },
+    {
+      "source": "participants",
+      "target": "standard physical therapy treatment (SPT)",
+      "label": "received"
+    },
+    {
+      "source": "clinical trial",
+      "target": "participants",
+      "label": "included"
+    },
+    {
+      "source": "Global Rating of Change (GROC)",
+      "target": "participants",
+      "label": "used to monitor"
+    },
+    {
+      "source": "low back pain (LBP)",
+      "target": "Fascial Manipulation\u00ae (FM\u00ae) method",
+      "label": "treated with"
+    },
+    {
+      "source": "low back pain (LBP)",
+      "target": "standard physical therapy treatment (SPT)",
+      "label": "treated with"
+    },
+    {
+      "source": "ODI minimal clinical importance difference (MCID)",
+      "target": "scores",
+      "label": "change occurred in"
+    },
+    {
+      "source": "Connective tissue",
+      "target": "motor unit recruitment",
+      "label": "alters"
+    },
+    {
+      "source": "Numeric Pain Rating Scale (NPRS)",
+      "target": "participants",
+      "label": "used to monitor"
+    },
+    {
+      "source": "fascial mobility",
+      "target": "motor unit recruitment",
+      "label": "restoration allows for"
+    },
+    {
+      "source": "vesicles",
+      "target": "endomembrane system",
+      "label": "seed of"
+    },
+    {
+      "source": "vesicles",
+      "target": "mitochondria",
+      "label": "derived from"
+    },
+    {
+      "source": "metagenomic studies",
+      "target": "archaeal lineages",
+      "label": "uncovering"
+    },
+    {
+      "source": "mitochondria",
+      "target": "ATP synthesis",
+      "label": "providing"
+    },
+    {
+      "source": "mitochondria",
+      "target": "cytosol",
+      "label": "reside within"
+    },
+    {
+      "source": "mitochondria",
+      "target": "bacterial genes",
+      "label": "providing"
+    },
+    {
+      "source": "bioenergetic membranes",
+      "target": "mitochondria",
+      "label": "internalized in"
+    },
+    {
+      "source": "phagotrophic host",
+      "target": "chemiosmotic ATP synthesis",
+      "label": "lacking"
+    },
+    {
+      "source": "phagotrophic host",
+      "target": "amino acid fermentations",
+      "label": "lived from"
+    },
+    {
+      "source": "phagotrophic host",
+      "target": "prokaryotic prey",
+      "label": "would have to ingest"
+    },
+    {
+      "source": "mitochondrion-bearing cell",
+      "target": "phagocytosis",
+      "label": "benefit from"
+    },
+    {
+      "source": "eukaryote",
+      "target": "mitochondria",
+      "label": "possessed"
+    },
+    {
+      "source": "common ancestor",
+      "target": "eukaryote",
+      "label": "was"
+    },
+    {
+      "source": "plasma membrane",
+      "target": "chemiosmosis",
+      "label": "incompatible with"
+    },
+    {
+      "source": "Aga Khan University Hospital (AKUH)",
+      "target": "primary total knee replacement (TKR) surgery",
+      "label": "conducted"
+    },
+    {
+      "source": "Aga Khan University Hospital (AKUH)",
+      "target": "total knee arthroplasty",
+      "label": "incorporated"
+    },
+    {
+      "source": "Surgical Site Infection (SSI)",
+      "target": "knee arthroplasty",
+      "label": "occurs after"
+    },
+    {
+      "source": "SSI nurses",
+      "target": "post-discharge surveillance",
+      "label": "collected data for"
+    },
+    {
+      "source": "SSI nurses",
+      "target": "PROCESS criteria",
+      "label": "followed"
+    },
+    {
+      "source": "post-discharge surveillance",
+      "target": "Surgical Site Infection (SSI)",
+      "label": "is important for"
+    },
+    {
+      "source": "164 patients",
+      "target": "primary total knee replacement (TKR) surgery",
+      "label": "underwent"
+    },
+    {
+      "source": "surgeons",
+      "target": "weight reduction",
+      "label": "should consider"
+    },
+    {
+      "source": "weight reduction",
+      "target": "patients",
+      "label": "recommended for"
+    },
+    {
+      "source": "patients",
+      "target": "hysterectomy",
+      "label": "undergo"
+    },
+    {
+      "source": "hysterectomy",
+      "target": "benign disease",
+      "label": "performed for"
+    },
+    {
+      "source": "hysterectomy",
+      "target": "postoperative morbidity",
+      "label": "associated with"
+    },
+    {
+      "source": "postoperative morbidity",
+      "target": "body mass index (BMI)",
+      "label": "impacted by"
+    },
+    {
+      "source": "postoperative morbidity",
+      "target": "obesity",
+      "label": "increased by"
+    },
+    {
+      "source": "American College of Surgeons National Safety and Quality Improvement Program",
+      "target": "hysterectomy",
+      "label": "source of"
+    },
+    {
+      "source": "laparoscopic hysterectomy",
+      "target": "abdominal hysterectomy",
+      "label": "compared with"
+    },
+    {
+      "source": "United States",
+      "target": "hysterectomy",
+      "label": "location of"
+    }
+  ]
+}
